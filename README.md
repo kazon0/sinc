@@ -1,7 +1,7 @@
 
 <div style="display: flex; ">
   <div style="width:40%">
-    < img src="你的头像.png" alt="image">
+
   </div>
 
   <div style="flex:1"></div>
@@ -10,9 +10,10 @@
   padding-right: 20px;">
     <p>
     <samll>
-    联系方式:
     <br>
-    手机:xx
+    ## 姓名：kazon
+    联系方式:
+  
     <br>
     微信:kazon1034
     <br>
